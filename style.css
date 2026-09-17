@@ -1,4 +1,55 @@
-/* <head>
-    <title>My First Page</title>
-    <link rel="stylesheet" href="style.css">
-</head> */
+#top {
+    color: red;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+p {
+    color:black;
+    font-size: 20px;
+}
+
+.text_box {
+    background-color: red;
+    padding: 5px;
+    border: 2px solid black;
+    max-width: 400px;
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+   
+}
+.text_box p {
+    color: white;
+}
+
+.second_title {
+    font-size: 25px;
+}
+
+a {
+    color: red;
+}
+a:hover {
+    background-color: white;
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+.center_container {
+  text-align: center;
+}
+
+head {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
