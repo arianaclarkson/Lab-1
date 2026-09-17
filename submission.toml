@@ -1,3 +1,8 @@
 [evidence]
 site_url = "https://arianaclarkson.github.io/Lab-1/"
 archive_url = "https://web.archive.org/web/20260917072412/https://arianaclarkson.github.io/Lab-1/"
+
+backlink_urls = [
+    "https://jayla-prov.github.io/lab-homepage/",
+    "https://ianrodriguez7.github.io/lab-homepage/"
+]
