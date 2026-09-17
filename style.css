@@ -53,3 +53,19 @@ head {
 body {
     text-align: center;
 }
+
+.navbar {
+    background-color: red;
+    padding: 15px;
+}
+
+.navbar a {
+    color: white;
+    margin: 15px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: black;
+}
+
